@@ -44,8 +44,8 @@ Systems        ██████░░░░░░░░  Multi-agent architect
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipesh_Ray-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dipeshrayg)
-[![Dev.to](https://img.shields.io/badge/Dev.to-@dipeshray-0A0A0A?style=flat&logo=devdotto)](https://dev.to/dipeshray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipesh_Ray-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/dipeshrayg](https://www.linkedin.com/in/dipesh-ray-414088284/))
+[![Dev.to](https://img.shields.io/badge/Dev.to-@dipeshray-0A0A0A?style=flat&logo=devdotto)]((https://dev.to/dipeshrayg))
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9970--0220-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0001-9970-0220)
 
 ---
