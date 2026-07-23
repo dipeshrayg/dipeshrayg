@@ -56,6 +56,14 @@ Systems        ██████░░░░░░░░  Multi-agent architect
 
 ---
 
+## Certifications
+
+[![HackerRank Software Engineer](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/253840611e61)
+[![HackerRank Frontend Developer React](https://img.shields.io/badge/HackerRank-Frontend_Developer_(React)-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/38d8c52f055d)
+[![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL_(Advanced)-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a9e56ebb1739)
+
+---
+
 ## GitHub Stats
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dipeshrayg&theme=flat&no-frame=true&row=1&column=7&margin-w=8)
